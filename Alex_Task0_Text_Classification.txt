@@ -1,0 +1,4 @@
+Best feature extractor TF-IDF
+	Algorithm							Precision					Recall				Accuracy
+
+Support Vector Machines		[0.745, 0.989, 0.81, 0.944]	[0.953, 0.923, 0.661, 0.869]	0.859
